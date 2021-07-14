@@ -688,7 +688,6 @@ footer {
           flex-direction: column;
   padding: 37px 41px 38px 46px;
   max-width: 589px;
-  height: auto;
   border: 1px solid #D6D6D6;
   border-radius: 14px;
 }
@@ -701,6 +700,7 @@ footer {
 @media (min-width: 1024px) {
   .reviews-slider__item {
     max-width: 100%;
+    height: auto;
   }
 }
 .reviews-slider__text {
