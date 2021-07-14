@@ -620,15 +620,8 @@ footer {
   color: #000;
   white-space: unset;
   border: none;
-  top: 120%;
   border-radius: 8px;
 }
-.iti__country-list::-webkit-scrollbar {
-  scrollbar-width: none;
-  width: 0;
-  height: 0;
-}
-
 .iti__selected-flag {
   -webkit-box-orient: horizontal;
   -webkit-box-direction: reverse;
